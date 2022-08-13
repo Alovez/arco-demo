@@ -1,16 +1,20 @@
 <script>
 import Menu from './component/menu.vue';
-// import Table from './component/table.vue';
+import EditorViewport from './component/editorViewport.vue';
 
 export default {
   components: {
     Menu,
-    // Table,
-  }
+    EditorViewport
+}
 };
 </script>
 
 <template>
   <Menu></Menu>
+<EditorViewport></EditorViewport>
 </template>
 
+<style scoped>
+
+</style>
