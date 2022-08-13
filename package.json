@@ -11,8 +11,7 @@
     "@arco-design/web-vue": "latest",
     "dayjs": "^1.0",
     "vue": "^3.2.0",
-    "vue-drag-resize": "^1.5.4",
-    "vue-grid-layout": "^2.4.0",
+    "vue-draggable-resizable": "^2.3.0",
     "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
